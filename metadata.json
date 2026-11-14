@@ -1,0 +1,6 @@
+{
+  "name": "AstroApex — CLPS Lunar Mission Browser",
+  "description": "High-FPS 3D Lunar Atlas, Multi-Site Landing Suitability Matrix, and Tsiolkovsky Fuel & Delta-V Mission Planner built by Team AstroApex for NASA Space Apps Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
